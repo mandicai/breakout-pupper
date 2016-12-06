@@ -1,0 +1,17 @@
+/Users/Mandi/Documents/VENLAB/UTRA/Unity/BreakOut/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/Mandi/Documents/VENLAB/UTRA/Unity/BreakOut/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/Mandi/Documents/VENLAB/UTRA/Unity/BreakOut/obj/Debug/Assembly-CSharp.dll
+/Users/Mandi/Documents/VENLAB/UTRA/Unity/BreakOut/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/Mandi/Documents/VENLAB/UTRA/Unity/BreakOut/Temp/bin/Debug/UnityEngine.dll
+/Users/Mandi/Documents/VENLAB/UTRA/Unity/BreakOut/Temp/bin/Debug/UnityEditor.dll
+/Users/Mandi/Documents/VENLAB/UTRA/Unity/BreakOut/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/Mandi/Documents/VENLAB/UTRA/Unity/BreakOut/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/Mandi/Documents/VENLAB/UTRA/Unity/BreakOut/Temp/bin/Debug/Mono.Cecil.dll
+/Users/Mandi/Documents/VENLAB/UTRA/Unity/BreakOut/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/Mandi/Documents/VENLAB/UTRA/Unity/BreakOut/Temp/bin/Debug/Unity.DataContract.dll
+/Users/Mandi/Documents/VENLAB/UTRA/Unity/BreakOut/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/Mandi/Documents/VENLAB/UTRA/Unity/BreakOut/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/Mandi/Documents/VENLAB/UTRA/Unity/BreakOut/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/Mandi/Documents/VENLAB/UTRA/Unity/BreakOut/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/Mandi/Documents/VENLAB/UTRA/Unity/BreakOut/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/Mandi/Documents/VENLAB/UTRA/Unity/BreakOut/Temp/bin/Debug/Mono.Cecil.Mdb.dll
